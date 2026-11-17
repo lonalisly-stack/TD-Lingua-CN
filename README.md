@@ -1,5 +1,5 @@
 
-TouchDesigner Global Chinese Localization Plugin/Touchdesigner全局中文汉化插件
+TouchDesigner Chinese Localization Plugin/Touchdesigner全局中文汉化插件
 <br>
 <br>
 <br>
