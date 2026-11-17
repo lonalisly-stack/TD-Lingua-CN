@@ -2,7 +2,9 @@
 TouchDesigner Global Chinese Localization Plugin/Touchdesigner全局中文汉化插件
 
 
+
 TD Lingua CN - TouchDesigner 全局中文界面辅助插件
+
 
 
 本工具是基于Python构建的第三方辅助插件，为 TouchDesigner 提供中文辅助显示。
@@ -11,13 +13,16 @@ TD Lingua CN - TouchDesigner 全局中文界面辅助插件
 
 
 
-功能
+
+功能：
+
 Main Menu　顶部菜单及下拉命令中文化，保留快捷键与启用/禁用状态。
 OP Creator　元件创建窗口中英对照，如 Noise → 噪波、Blur → 模糊。
 OP Descriptions　元件功能说明中文化，辅助理解元件用途与工作原理。
 Parameters　参数名称悬停中文提示，根据元件类型进行精准匹配。
 Palette　组件库分类与组件名称中文化，保留原有层级与拖放功能。
 Auto Start　支持随 TouchDesigner 工程自动启用中文辅助，无需每次手动启动。
+
 
 
 随时切换：一键启用中文，一键恢复英文，适合日常使用与学习软件功能两种场景。
@@ -36,27 +41,29 @@ Auto Start　支持随 TouchDesigner 工程自动启用中文辅助，无需每�
   
 <img src="https://raw.githubusercontent.com/lonalisly-stack/TD-Lingua-CN/main/img/1.jpg" width="800">
 
-### 菜单栏
+### 菜单栏：
 
 <img src="https://raw.githubusercontent.com/lonalisly-stack/TD-Lingua-CN/main/img/2.png" width="800">
 
-### OP面板
+### OP面板：
 
 <img src="https://raw.githubusercontent.com/lonalisly-stack/TD-Lingua-CN/main/img/3.png" width="800">
 
-### 参数面板悬浮翻译
+### 参数面板悬浮翻译：
 
 <img src="https://raw.githubusercontent.com/lonalisly-stack/TD-Lingua-CN/main/img/5.png" width="800">
 
-### Palette面板
+### Palette面板：
 
 <img src="https://raw.githubusercontent.com/lonalisly-stack/TD-Lingua-CN/main/img/4.png" width="800">
+
 
 
 兼容性
 
 版本    TouchDesigner 2025.31550及以上版
 系统    Windows / macOS
+
 
 
 已知限制
@@ -67,13 +74,19 @@ Auto Start　支持随 TouchDesigner 工程自动启用中文辅助，无需每�
     •    中文仅作辅助，不替代官方文档，也不改变任何计算逻辑或工程数据
 
 
+
+
 支持 🌱
 
 ⭐ Star 让更多人找到它　·　🐛 发现问题请提 Issue　·　🔗 欢迎分享
 
+
+
 许可 🌸
 
 免费使用，禁止转售。
+
+
 
 作者
 
