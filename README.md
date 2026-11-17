@@ -1,4 +1,4 @@
-<img width="2084" height="1450" alt="image" src="https://github.com/user-attachments/assets/8623c24b-d235-44b1-9a97-697360e12a4f" /><img width="2357" height="1809" alt="image" src="https://github.com/user-attachments/assets/848f6ed3-97c5-4ab9-aaa7-93d0b901ba6d" /># TD-Lingua-CN
+
 TouchDesigner Global Chinese Localization Plugin/Touchdesigner全局中文汉化插件
 
 
@@ -34,22 +34,23 @@ Auto Start　支持随 TouchDesigner 工程自动启用中文辅助，无需每�
 
     4.    需要英文时点击 恢复英文（卸载或替换插件前请先恢复）
   
-https://github.com/lonalisly-stack/TD-Lingua-CN/blob/main/img/1.jpg?raw=true
+<img src="https://raw.githubusercontent.com/lonalisly-stack/TD-Lingua-CN/main/img/1.jpg" width="800">
 
-菜单栏：
-https://github.com/lonalisly-stack/TD-Lingua-CN/blob/main/img/2.png?raw=true
+### 菜单栏
 
+<img src="https://raw.githubusercontent.com/lonalisly-stack/TD-Lingua-CN/main/img/2.png" width="800">
 
-OP面板：
-https://github.com/lonalisly-stack/TD-Lingua-CN/blob/main/img/3.png?raw=true
+### OP面板
 
+<img src="https://raw.githubusercontent.com/lonalisly-stack/TD-Lingua-CN/main/img/3.png" width="800">
 
-参数面板悬浮翻译：
-https://github.com/lonalisly-stack/TD-Lingua-CN/blob/main/img/5.png?raw=true
+### 参数面板悬浮翻译
 
+<img src="https://raw.githubusercontent.com/lonalisly-stack/TD-Lingua-CN/main/img/5.png" width="800">
 
-Palatte面板：
-https://github.com/lonalisly-stack/TD-Lingua-CN/blob/main/img/4.png?raw=true
+### Palette面板
+
+<img src="https://raw.githubusercontent.com/lonalisly-stack/TD-Lingua-CN/main/img/4.png" width="800">
 
 
 兼容性
