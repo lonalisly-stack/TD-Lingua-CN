@@ -92,9 +92,8 @@ Auto Start　支持随 TouchDesigner 工程自动启用中文辅助，无需每�
 许可 🌸
 <br>
 免费使用，禁止转售。
-
-
-
+<br>
+<br>
 作者
-
+<br>
 ANI · Liroannis@gmail.com
