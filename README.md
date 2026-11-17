@@ -17,10 +17,15 @@ TD Lingua CN - TouchDesigner 全局中文界面辅助插件
 功能：
 
 Main Menu　顶部菜单及下拉命令中文化，保留快捷键与启用/禁用状态。
-OP Creator　元件创建窗口中英对照，如 Noise → 噪波、Blur → 模糊。
+
+OP Creator　元件创建窗口中英对照。
+
 OP Descriptions　元件功能说明中文化，辅助理解元件用途与工作原理。
+
 Parameters　参数名称悬停中文提示，根据元件类型进行精准匹配。
+
 Palette　组件库分类与组件名称中文化，保留原有层级与拖放功能。
+
 Auto Start　支持随 TouchDesigner 工程自动启用中文辅助，无需每次手动启动。
 
 
