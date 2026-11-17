@@ -1,7 +1,7 @@
 
 TouchDesigner Global Chinese Localization Plugin/Touchdesigner全局中文汉化插件
 
-
+ 
 
 TD Lingua CN - TouchDesigner 全局中文界面辅助插件
 
@@ -11,8 +11,8 @@ TD Lingua CN - TouchDesigner 全局中文界面辅助插件
 
 英文标识、内部名称与原生操作逻辑一律保留，不妨碍阅读官方文档与工程协作。
 
-
-
+  
+  
 
 功能：
 
@@ -28,11 +28,11 @@ Palette　组件库分类与组件名称中文化，保留原有层级与拖放�
 
 Auto Start　支持随 TouchDesigner 工程自动启用中文辅助，无需每次手动启动。
 
-
+  
 
 随时切换：一键启用中文，一键恢复英文，适合日常使用与学习软件功能两种场景。
 
-
+  
 
 安装 & 使用
 
@@ -62,14 +62,14 @@ Auto Start　支持随 TouchDesigner 工程自动启用中文辅助，无需每�
 
 <img src="https://raw.githubusercontent.com/lonalisly-stack/TD-Lingua-CN/main/img/4.png" width="800">
 
-
+  
 
 兼容性
 
 版本    TouchDesigner 2025.31550及以上版
 系统    Windows / macOS
 
-
+  
 
 已知限制
 
@@ -78,9 +78,9 @@ Auto Start　支持随 TouchDesigner 工程自动启用中文辅助，无需每�
     •    品牌名、协议名等专有名称保留英文
     •    中文仅作辅助，不替代官方文档，也不改变任何计算逻辑或工程数据
 
-
-
-
+  
+  
+  
 支持 🌱
 
 ⭐ Star 让更多人找到它　·　🐛 发现问题请提 Issue　·　🔗 欢迎分享
